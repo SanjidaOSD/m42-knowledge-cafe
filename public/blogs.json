@@ -1,6 +1,7 @@
 [
     {
         "id": "01",
+        "title":"Here are some whimsical and playful titles for a fictional JSON-related project",
         "cover": "https://i.ibb.co/2MNpw2h/1.jpg",
         "author": "John Doe",
         "author_img": "https://i.ibb.co/2MNpw2h/1.jpg",
@@ -8,24 +9,26 @@
         "reading_time": 5,
         "hashtags": [
             "fiction",
-            "adventure",
-            "mystery"
+            "adventure"
+            
         ]
     },
     {
         "id": "02",
+        "title":"Here are some whimsical and playful titles for a fictional JSON-related project",
         "cover": "https://i.ibb.co/8sN39Qy/istockphoto-1201192590-1024x1024.jpg",
         "author": "Jane Smith",
         "author_img": "https://i.ibb.co/8sN39Qy/istockphoto-1201192590-1024x1024.jpg",
         "posted_date": "2024-03-13",
         "reading_time": 8,
         "hashtags": [
-            "science-fiction",
+            "science_fiction",
             "technology"
         ]
     },
     {
         "id": "03",
+        "title":"Here are some whimsical and playful titles for a fictional JSON-related project",
         "cover": "https://i.ibb.co/C8dHrR1/istockphoto-1437996098-2048x2048.jpg",
         "author": "Alex Johnson",
         "author_img": "https://i.ibb.co/C8dHrR1/istockphoto-1437996098-2048x2048.jpg",
@@ -38,6 +41,7 @@
     },
     {
         "id": "04",
+        "title":"Here are some whimsical and playful titles for a fictional JSON-related project",
         "cover": "https://i.ibb.co/3sqBhBG/austin-distel-Vv-Acr-Va56fc-unsplash.jpg",
         "author": "Emily Brown",
         "author_img": "https://i.ibb.co/3sqBhBG/austin-distel-Vv-Acr-Va56fc-unsplash.jpg",
@@ -50,6 +54,7 @@
     },
     {
         "id": "05",
+        "title":"Here are some whimsical and playful titles for a fictional JSON-related project",
         "cover": "https://i.ibb.co/qxNnMkz/sarah-dorweiler-x2-Tmfd1-Sg-A-unsplash.jpg",
         "author": "Michael Lee",
         "author_img": "https://i.ibb.co/qxNnMkz/sarah-dorweiler-x2-Tmfd1-Sg-A-unsplash.jpg",
